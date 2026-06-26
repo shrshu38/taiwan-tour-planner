@@ -1,4 +1,4 @@
-# Taiwan Tour Planner (台灣旅遊規劃精靈)
+# Taiwan Tour Planner (台灣旅遊規劃)
 
 專為 AI Agent 設計的台灣旅遊行程規劃 Skill。(使用AI製作)
 
